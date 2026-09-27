@@ -2,6 +2,8 @@
 
 **Static analysis for agent skill folders.** One command, standard library, no dependencies.
 
+_Русская версия: [README.ru.md](README.ru.md)_
+
 ```
 $ python3 skillscan.py ./skills
 skills/bad-skill/SKILL.md:11 [high] SS040 pipes a download straight into a shell
