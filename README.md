@@ -1,6 +1,6 @@
 # SkillScan
 
-**Static analysis for agent skill folders.** One command, standard library, no dependencies.
+**Static analysis for agent skill folders** — Hermes Agent skills, Claude/Cursor skill directories: dangerous shell, prompt-injection markers, credential leaks, duplicate names. One command, standard library, no dependencies.
 
 _Русская версия: [README.ru.md](README.ru.md)_
 
